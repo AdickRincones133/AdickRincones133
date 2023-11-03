@@ -1,4 +1,5 @@
-<a href="https://imgur.com/QfgY2Su"><img src="https://i.imgur.com/QfgY2Su.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/IW74cqq"><img src="https://imgur.com/IW74cqq.png" title="source: imgur.com" /></a> 
+
 
 ## 🦊 Skills
 - Programming languages: Python | Javascript | C++ | Java
